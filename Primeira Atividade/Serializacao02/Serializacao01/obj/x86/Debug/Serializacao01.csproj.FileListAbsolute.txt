@@ -1,0 +1,52 @@
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao01\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao01\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana05 Manha\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana05 Manha\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Segundo Semestre\Santa C# noite\Bim01Aula10\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Segundo Semestre\Santa C# noite\Bim01Aula10\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Segundo Semestre\Santa C# noite\Bim01Aula10\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Segundo Semestre\Santa C# noite\Bim01Aula10\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Segundo Semestre\Santa C# noite\Bim01Aula10\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula08\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula08\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula08\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula08\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula08\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula06\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula06\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula06\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula06\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula06\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula06\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula02\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe.config
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csproj.AssemblyReference.cache
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe.config
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\bin\Debug\MinhaBiblioteca.dll
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\bin\Debug\MinhaBiblioteca.pdb
+C:\Users\marcelo.teston\Desktop\Atividades Asenjo\Segunda Atividade\Parte I\Serializacao02\Serializacao01\obj\x86\Debug\Serializ.823B7065.Up2Date
