@@ -1,0 +1,31 @@
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana04\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana04\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana04\Socket\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana04\Socket\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.exe
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ClienteEnvia\ClienteEnvia\bin\Debug\ClienteEnvia.pdb
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.exe
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.pdb
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.AssemblyReference.cache
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ClienteEnvia\ClienteEnvia\obj\x86\Debug\ClienteEnvia.csproj.CoreCompileInputs.cache

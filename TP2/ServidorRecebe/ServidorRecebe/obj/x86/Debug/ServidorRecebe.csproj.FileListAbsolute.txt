@@ -1,0 +1,29 @@
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana05\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana04\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana04\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana04\Socket\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana04\Socket\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim01Aula10\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula08\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula04\Parte I Socket\Socket\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.pdb
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.exe
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ServidorRecebe\ServidorRecebe\bin\Debug\ServidorRecebe.pdb
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.csprojResolveAssemblyReference.cache
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.exe
+D:\PRATICAS DE PROGRAMAÇÃO\TP2\ServidorRecebe\ServidorRecebe\obj\x86\Debug\ServidorRecebe.pdb
